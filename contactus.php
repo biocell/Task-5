@@ -27,7 +27,7 @@
 
             <div class="navbar-collapse collapse offset" id="navbar">
                 <ul class="nav navbar-nav justify-content-end">
-                    <li class="nav-item"><a href="/" class="nav-link">Home</a> </li>
+                    <li class="nav-item"><a href="index.php" class="nav-link">Home</a> </li>
                     <li class="nav-item"><a href="login.php" class="nav-link">Login</a> </li>
                     <li class="nav-item"><a href="register.php" class="nav-link">Sign up</a> </li>
                     <li class="nav-item"><a href="about.php" class="nav-link">About us</a> </li>
