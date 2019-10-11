@@ -28,7 +28,7 @@
 
                 <div class="navbar-collapse collapse offset" id="navbar">
                   <ul class="nav navbar-nav justify-content-end">
-                      <li class="nav-item"><a href="/" class="nav-link" style="color: #337ab7;">Home</a> </li>
+                      <li class="nav-item"><a href="index.php" class="nav-link" style="color: #337ab7;">Home</a> </li>
                       <li class="nav-item"><a href="login.php" class="nav-link" style="color: #337ab7;">Login</a> </li>
                       <li class="nav-item"><a href="register.php" class="nav-link" style="color: #337ab7;">Sign up</a> </li>
                       <li class="nav-item"><a href="about.php" class="nav-link" style="color: #337ab7;">About us</a> </li>
