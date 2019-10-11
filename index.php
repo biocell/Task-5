@@ -10,10 +10,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="style.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/4293d2f86e.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:700&display=swap" rel="stylesheet">
 </head>
 <body>
 <header class="top-header" role="banner">
-    <div class="navbar ">
+    <div class="navbar" style="margin-left: -26px;">
         <div class="container-fluid">
             <div class="navbar-header">
                 <a  class="navbar-brand">Pontus <span>Drive</span></a>
@@ -32,17 +33,17 @@
                     <li class="nav-item"><a href="contactus.php" class="nav-link">Contact Us</a> </li>
                 </ul>
             </div>
-        </div>
+    </div>
 </header>
 <section class="hero">
     <div class="row m-0">
         <div class="col-lg-7">
             <div class="hero-heading">
-                <h2 align= "center">A better way to organize and share data within slack</h2>
+                <h1 style="font-family: 'Poppins', sans-serif;">A better way to organize and share data within slack</h1>
                 <br>
                 <p class="font-weight-bold" align="justify" style="color: #7e7e7e">        Pontus slack drive, is built to help you store your slack messages
-                    for productive collaborations. It automatically saves conversations to our drive and easy to access.Once you create, gather, and start manipulating the messages you have received or sent out, they can quickly become disorganised. Most times we struggle to find messages.<br>
-                     To save time and prevent errors later on, you could decide how you will name and structure the messages you receive which would help you to locate, identify and retrieve them  quickly and accurately, therefore making it easier to manage your conversations.<br>
+                    for productive collaborations. It automatically saves conversations to our drive and easy to access.Once you create, gather, and start manipulating the messages you have received or sent out, they can quickly become disorganised. Most times we struggle to find messages.
+                     To save time and prevent errors later on, you could decide how you will name and structure the messages you receive which would help you to locate, identify and retrieve them  quickly and accurately, therefore making it easier to manage your conversations.
                       Pontus slack drive would enable you archived old messages, create an admin folders to store your templates, user guides, notes etc . It could also help you store your messages into groups via topic/ area/person/subject. Finally it recognises the importance of backing up your files and ensures that all your messages are backed up automatically.</p>
             </div>
         </div>
@@ -56,7 +57,7 @@
 <section class="hero2">
     <div class="container m-0">
         <div class="title-header">
-            <h2 align="center"> Benefits of Pontus Drive</h2>
+            <h2 align="center" style="font-family: 'Poppins', sans-serif;"> Benefits of Pontus Drive</h2>
         </div>
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-6">
@@ -121,7 +122,7 @@
                         <h4>Contact Us</h4>
                         <a href="mailto:hello@pontusbot.co?Subject=Hello%20there" target="_top"><h6>hello@pontusbot.co</h6></a>
                  <a href="#"><h4 style="color: rgb(253, 253, 253);">Potus Drive</h4></a>
-                        <p>© 2019 Pontus NG. All rights reserved.</p>
+                        <p style="color: white;">© 2019 Pontus NG. All rights reserved.</p>
                 
                 
                 
