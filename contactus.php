@@ -10,6 +10,25 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <link href="assets/style.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/4293d2f86e.js" crossorigin="anonymous"></script>
+    <style type="text/css">
+        @media only screen and (max-width: 375px){
+           
+            .col-md-6{
+                margin-left: -50px;
+            }
+
+            .navbar-brand{
+                margin-left: -40px;
+            }
+
+            .navbar-toggle{
+                margin-top: 20px;
+                
+                
+            }
+
+        }
+    </style>
 
 </head>
 <body>
@@ -18,7 +37,7 @@
     <div class="navbar ">
         <div class="container-fluid">
             <div class="navbar-header">
-                <a  class="navbar-brand">Pontus <span>Drive</span></a>
+                <a class="navbar-brand">Pontus <span>Drive</span></a>
                 <button type="button"  class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
                     <h6>Menu</h6>
                 </button>
@@ -40,25 +59,24 @@
 </header>
 
 
-<section class="hero">
-    <div class="row m-0">
-        <div class="col-lg-7">
-            <div class="hero-heading">
-                <h2 class="">A better way to organize and share data within slack</h2>
-                <br>
-                <p class="font-weight-bold" style="color: #7e7e7e">Pontus slack drive, is built to help you store your slack messages
-                    for productive collaborations. It automatically saves conversations to our drive and easy to access.</p>
-            </div>
-        </div>
-        <div class="col-lg-5">
-            <div class="img-block">
-                <img src="assets/images/bg-master.png" width="100%">
-            </div>
-        </div>
-    </div>
-</section>
 
-<section class="hero2">
+<div class="container contact" style="margin-left: 70px;">
+    <div class="row" style="margin-top: 60px;">
+        <div class="col-md-6">
+            <h3>Contact Us</h3>
+            <h4>Head Office: No 23 Bourvadia courts Lagos Nigeria</h3>
+            <h4>Call us: 08023456789</h4> 
+            <h4>Email: pontusdrive@hng.com</h4>  
+            
+        </div>
+        <div class="col-md-6" style="margin-top: 20px;">
+            <img src="assets/images/bg-master.png" width="100%" class="hidden-sm">
+        </div>
+       </form>
+    </div>
+</div>
+
+<!--<section class="hero2">
 
     <div class="container m-0">
         <div class="title-header">
@@ -114,7 +132,7 @@
 
     </div>
 
-</section>
+</section>-->
 
 
 </body>
